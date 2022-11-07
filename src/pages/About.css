@@ -6,7 +6,7 @@
 }
 
 .about_title {
-  margin-left: 100px;
+  margin-left: 110px;
   margin-top: 500px;
   align-items: center;
   justify-content: center;
@@ -16,6 +16,7 @@
   width: 400px;
   border-radius: 50%;
   margin-top: 40px;
+  border: 5px solid yellowgreen;
 }
 
 .about_paragraph {
