@@ -30,10 +30,10 @@ function Header() {
         <Button variant="danger" onClick={navigateToProjects}>
           Projects
         </Button>{" "}
-        <Button variant="info">Resume</Button>{" "}
         <Button variant="warning" onClick={navigateToAbout}>
           aboutMe
         </Button>{" "}
+        <Button variant="info">Resume</Button>{" "}
       </div>
     </div>
   );
